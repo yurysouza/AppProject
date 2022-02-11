@@ -1,11 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { FlatList, View, Text } from "react-native";
-import { Colors, Line, StyledContainer, StyledFormAreaSearch, StyledTextInput } from "../components/styles";
+import { Colors, LeftIcon, Line, StyledContainer, StyledFormArea, StyledFormAreaSearch, StyledTextInput } from "../components/styles";
 import points from "../components/pontos.json";
 
-
 const {darkLight} = Colors
-
 const Search = () => {
     const [searchText, setSearchText] = useState('');
     const [list, setList] = useState(points);
@@ -17,37 +15,23 @@ const Search = () => {
             setList(
                 points.filter(
                     (item) =>
-                        item.name.toLowerCase().indexOf(searchText.toLowerCase()) > -1
+                        item.name.toLowerCase().indexOf(searchText.toLowerCase()) > -1 || 
+                        item.type.toLowerCase().indexOf(searchText.toLowerCase()) > -1
                 )
             );
         }
     }, [searchText]);
 
-    /*useEffect(() => {
-        if (searchText ===''){
-            setList(points);
-        } else {
-            setList(
-                points.filter(
-                    (item) =>
-                        item.type.toLowerCase().indexOf(searchText.toLowerCase()) > -1
-                )
-            );
-        }
-    }, [searchText]);*/
-
     return (
         <StyledContainer>
-            <StyledFormAreaSearch>
-                <View>
-                    <StyledTextInput //mudar aqui pro styled MyInputText, fazer uma props e colocar iconezinho da lupa
-                    placeholder = "Digite aqui"
-                    placeholderTextColor = {darkLight}
-                    value = {searchText}
-                    onChangeText ={(t) => setSearchText(t)}
-                    />
-                </View>
-            </StyledFormAreaSearch>
+            <StyledFormArea>
+                <StyledTextInput
+                placeholder = "Digite aqui"                    
+                placeholderTextColor = {darkLight}
+                value = {searchText}
+                onChangeText ={(t) => setSearchText(t)}
+                />
+            </StyledFormArea>
             <FlatList
                 data = {list}
                 renderItem = {({item}) => <ListItem data={item}/>}
@@ -64,7 +48,7 @@ const ListItem = ({data}) => {
             <Text>{data.name}</Text>
             <Text>{data.type}</Text>
         </View>
-
+        
     )
 }
 export default Search;

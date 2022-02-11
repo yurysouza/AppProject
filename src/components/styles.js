@@ -32,11 +32,6 @@ export const InnerContainer = styled.View`
     align-items: center;
 `;
 
-export const StyledFormAreaSearch = styled.View`
-    border-radius: 25px;
-    width: 100%;    
-`;
-
 export const WelcomeContainer = styled(InnerContainer)`
     padding: 25px;
     padding-top: 10px;
@@ -63,7 +58,6 @@ export const PageTitle = styled.Text`
     text-align: center;
     color: ${brand};
     padding: 10px;
-
     ${(props) => props.welcome && `
     font-size: 35px;
     `}
@@ -75,7 +69,6 @@ export const SubTitle = styled.Text`
     letter-spacing: 1px;
     font-weight: bold;
     color: ${tertiary};
-
     ${(props) => props.welcome && `
     margin-bottom 5px;
     font-weight normal;
@@ -152,7 +145,6 @@ export const StyledButton = styled.TouchableOpacity`
     border-radius: 5px;
     margin-vertical 5px;
     height: 50px;
-
     ${(props) => props.google == true && `
     background-color: ${red};
     flex-direction: row;

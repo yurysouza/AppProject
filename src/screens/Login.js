@@ -41,7 +41,7 @@ const Login = () => {
                         console.log(values);
                     }}                    
                 >
-                {({handleChange,handleBlur,handleSubmit ,values}) => (
+                {({handleChange, handleBlur, handleSubmit, values}) => (
                     <StyledFormArea>
                         <MyTextInput
                             label = "endereço de email"
