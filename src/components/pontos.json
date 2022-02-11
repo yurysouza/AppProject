@@ -1,0 +1,890 @@
+[
+   {
+      "name":"Forte do Presepio",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45443780415633",
+      "lon":"-48.5051178366045"
+   },
+   {
+      "name":"Casa das Onze Janelas",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45496193703202",
+      "lon":"-48.5056680239536"
+   },
+   {
+      "name":"Palacio Laudro Sodre",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45604076461976",
+      "lon":"-48.5031799224103"
+   },
+   {
+      "name":"Pal\u00e1cio Ant\u00f4nio Lemos",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45557862249979",
+      "lon":"-48.5024166610322"
+   },
+   {
+      "name":"Palacete Bolonha",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45201348171321",
+      "lon":"-48.4908804144426"
+   },
+   {
+      "name":"Palacete Pinho",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46107643827741",
+      "lon":"-48.5047001216796"
+   },
+   {
+      "name":"Palacete Bibi Costa",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45054172147516",
+      "lon":"-48.4842982042991"
+   },
+   {
+      "name":"Parque da Resid\u00eancia",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45184730723469",
+      "lon":"-48.4733608292994"
+   },
+   {
+      "name":"Feira do A\u00e7a\u00ed",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45369075415092",
+      "lon":"-48.5044120446767"
+   },
+   {
+      "name":"Mercado Municipal VER-O-PESO",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45235567726929",
+      "lon":"-48.5037534735066"
+   },
+   {
+      "name":"Solar da Beira",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45199982706656",
+      "lon":"-48.5032618816463"
+   },
+   {
+      "name":"Mercado S\u00e3o Br\u00e1s",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45140439399346",
+      "lon":"-48.4683887473766"
+   },
+   {
+      "name":"VER-O-RIO",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.43625389766017",
+      "lon":"-48.4936827951103"
+   },
+   {
+      "name":"Est\u00e1dio Ol\u00edmpico do Par\u00e1 (Mangueir\u00e3o)",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.38099263604324",
+      "lon":"-48.4442088888295"
+   },
+   {
+      "name":"Centur - Funda\u00e7\u00e3o Cultural do Par\u00e1",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45661093408332",
+      "lon":"-48.4864124289423"
+   },
+   {
+      "name":"Museu Paraense Em\u00edlio Goeldi",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.4521329799879",
+      "lon":"-48.4771658180744"
+   },
+   {
+      "name":"Museu de Arte Sacra",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.4550506382335",
+      "lon":"-48.5045948357533"
+   },
+   {
+      "name":"Museu do Estado",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.4560490647163",
+      "lon":"-48.5031769533288"
+   },
+   {
+      "name":"Museu do C\u00edrio",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45466556608711",
+      "lon":"-48.5039754905518"
+   },
+   {
+      "name":"Museu de Arte de Bel\u00e9m (MAB)",
+      "type":"Patrimonial",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45557299909468",
+      "lon":"-48.5024138468062"
+   },
+   {
+      "name":"Theatro da Paz",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45307438756738",
+      "lon":"-48.4937660763792"
+   },
+   {
+      "name":"Teatro Waldemar Henrique",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45250450134335",
+      "lon":"-48.4948782057171"
+   },
+   {
+      "name":"Esta\u00e7\u00e3o das Docas",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44898209569815",
+      "lon":"-48.5000793158187"
+   },
+   {
+      "name":"Centro de Conven\u00e7\u00f5es da Amaz\u00f4nia (HANGAR)",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.42155129042295",
+      "lon":"-48.4567142581489"
+   },
+   {
+      "name":"Planet\u00e1rio do Par\u00e1",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.38376598485455",
+      "lon":"-48.438246586984"
+   },
+   {
+      "name":"S\u00e3o Jos\u00e9 Liberto (Polo Joalheiro e Artesanato)",
+      "type":"Cultural",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46353869624173",
+      "lon":"-48.4956878158189"
+   },
+   {
+      "name":"Catedral da S\u00e9",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45570840006351",
+      "lon":"-48.5048400876894"
+   },
+   {
+      "name":"Igreja S\u00e3o Jo\u00e3o Batista",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45733457897069",
+      "lon":"-48.5027165905516"
+   },
+   {
+      "name":"Igreja N.S. das Merc\u00eas",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45088847572029",
+      "lon":"-48.5009630098772"
+   },
+   {
+      "name":"Igreja da San\u00b4t Ana",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45139729396517",
+      "lon":"-48.4985582792582"
+   },
+   {
+      "name":"Igreja N.S.do Carmo",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45856626922071",
+      "lon":"-48.5056931436757"
+   },
+   {
+      "name":"Igreja N.S. do Rosario dos Homens Pretos",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45269280095163",
+      "lon":"-48.4973638496824"
+   },
+   {
+      "name":"Basilica Santuario N.S. de Nazar\u00e9",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.4523050921959",
+      "lon":"-48.4813288137313"
+   },
+   {
+      "name":"Monumento",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45261342132964",
+      "lon":"-48.4809931735729"
+   },
+   {
+      "name":"Memorial da Cabanagem",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.40609475334874",
+      "lon":"-48.434942873462"
+   },
+   {
+      "name":"Memorial Magalh\u00e3es Barata",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44882578854217",
+      "lon":"-48.4674331354756"
+   },
+   {
+      "name":"Assembleia de Deus",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44903475676125",
+      "lon":"-48.4801706840215"
+   },
+   {
+      "name":"Igreja Batista",
+      "type":"Religioso",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44227699695039",
+      "lon":"-48.4739658236735"
+   },
+   {
+      "name":"Bosque Rodrigues Alves",
+      "type":"Ecologico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.42999224005879",
+      "lon":"-48.4568861599941"
+   },
+   {
+      "name":"Parque Ambiental do Utinga",
+      "type":"Ecologico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.41949329027158",
+      "lon":"-48.4181544599941"
+   },
+   {
+      "name":"Ilha dos Papagaios",
+      "type":"Ecologico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.52078099460912",
+      "lon":"-48.5064708968121"
+   },
+   {
+      "name":"Mangal das Gar\u00e7as",
+      "type":"Ecologico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46374229856563",
+      "lon":"-48.5052850163381"
+   },
+   {
+      "name":"Museu Paraense Em\u00edlio Goeldi",
+      "type":"Ecologico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45217133260982",
+      "lon":"-48.4771443368172"
+   },
+   {
+      "name":"Ilha do Combu",
+      "type":"Gastronomico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.49922831941913",
+      "lon":"-48.4537406947182"
+   },
+   {
+      "name":"Parque da Resid\u00eancia (Esta\u00e7\u00e3o Gas\u00f4metro)",
+      "type":"Gastronomico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45197331589981",
+      "lon":"-48.47336179831"
+   },
+   {
+      "name":"Parque Ambiental de Bel\u00e9m",
+      "type":"Gastronomico",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.41965590762085",
+      "lon":"-48.4181327041081"
+   },
+   {
+      "name":"Aeroporto Internacional",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.38966904217386",
+      "lon":"-48.4797834303589"
+   },
+   {
+      "name":"Terminal Rodovi\u00e1rio",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44902998005806",
+      "lon":"-48.4662061651175"
+   },
+   {
+      "name":"Terminal Hidrovi\u00e1rio",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44202951046244",
+      "lon":"-48.4952285171207"
+   },
+   {
+      "name":"Ferry Boat (Bel\u00e9m - Maraj\u00f3) - Icoaraci",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.3002489802259",
+      "lon":"-48.4904559529283"
+   },
+   {
+      "name":"Travessia Rodofluvial (Porto Arapari)",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45702786728034",
+      "lon":"-48.5058423820766"
+   },
+   {
+      "name":"Trapiche Municipal - Icoaraci",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.29854813872539",
+      "lon":"-48.4899879782954"
+   },
+   {
+      "name":"SESC Boulevard",
+      "type":"Outros",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44955564330804",
+      "lon":"-48.5003007176642"
+   },
+   {
+      "name":"Portal da Amaz\u00f4nia",
+      "type":"Esportivo",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.47103824233552",
+      "lon":"-48.5038411599939"
+   },
+   {
+      "name":"Porto Futuro",
+      "type":"Esportivo",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44091883920449",
+      "lon":"-48.494066444654"
+   },
+   {
+      "name":"Parque Ambiental do Utinga",
+      "type":"Esportivo",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.41943966255405",
+      "lon":"-48.4181115446539"
+   },
+   {
+      "name":"Shopping P\u00e1tio Bel\u00e9m",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45765001702461",
+      "lon":"-48.4946538023238"
+   },
+   {
+      "name":"Shopping Center Castanheira",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.40354204527798",
+      "lon":"-48.4306677854019"
+   },
+   {
+      "name":"Boulevard Shopping",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46085847162406",
+      "lon":"-48.4845373752323"
+   },
+   {
+      "name":"Parque Shopping",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.36974459092513",
+      "lon":"-48.4463980964996"
+   },
+   {
+      "name":"Feira de Artesanato do Paracuri",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.29610165115063",
+      "lon":"-48.4899806023248"
+   },
+   {
+      "name":"Esta\u00e7\u00e3o das Docas",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.4488641162382",
+      "lon":"-48.5001007734888"
+   },
+   {
+      "name":"Shopping Bosque Gr\u00e3o Par\u00e1",
+      "type":"Lazer",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.3888485650938",
+      "lon":"-48.4646703599942"
+   },
+   {
+      "name":"Educand\u00e1rio Nogueira de Farias",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.26795935895039",
+      "lon":"-48.5569752199377"
+   },
+   {
+      "name":"Praia do Farol",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.26736231029945",
+      "lon":"-48.5631255252386"
+   },
+   {
+      "name":"Praia da Saudade",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.25537696748552",
+      "lon":"-48.5638317485748"
+   },
+   {
+      "name":"Praia Flecheira",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.23235546459439",
+      "lon":"-48.5583853865391"
+   },
+   {
+      "name":"Praia Funda",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.23797582130089",
+      "lon":"-48.5609433959089"
+   },
+   {
+      "name":"Praia do Amor",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.26147401896872",
+      "lon":"-48.5654582094372"
+   },
+   {
+      "name":"Praia do Vai quem quer",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"ILHA DE COTIBUBA",
+      "lat":"-1.22083723260143",
+      "lon":"-48.550423271601"
+   },
+   {
+      "name":"B. Branco",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.24621467596447",
+      "lon":"-48.4562565979094"
+   },
+   {
+      "name":"Praia do Amor",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.25201913791272",
+      "lon":"-48.4617645921878"
+   },
+   {
+      "name":"Av. Beira Mar",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.26539444080076",
+      "lon":"-48.4740418610288"
+   },
+   {
+      "name":"Praia Grande",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.25486801557058",
+      "lon":"-48.4659824833721"
+   },
+   {
+      "name":"Praia da Bras\u00edlia",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.27320769898192",
+      "lon":"-48.4837330570379"
+   },
+   {
+      "name":"Escola Bosque",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Outeiro",
+      "lat":"-1.26191276947602",
+      "lon":"-48.4673668311599"
+   },
+   {
+      "name":"Praia do Cruzeiro",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.29336095508193",
+      "lon":"-48.4858609300871"
+   },
+   {
+      "name":"Feira do Artesanato do Paracuri",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.29614566225869",
+      "lon":"-48.4900011463696"
+   },
+   {
+      "name":"Trapiche Municipal",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.29854146536222",
+      "lon":"-48.4899875447058"
+   },
+   {
+      "name":"Ferry-Boat (Bel\u00e9m-Maraj\u00f3)",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.3003274294713",
+      "lon":"-48.4904464948393"
+   },
+   {
+      "name":"Igreja Matriz",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.30164649131085",
+      "lon":"-48.4851863705019"
+   },
+   {
+      "name":"Antiga Esta\u00e7\u00e3o de Ferro",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.3023047336806",
+      "lon":"-48.4852979853231"
+   },
+   {
+      "name":"Orla de Icoaraci",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.29503733962606",
+      "lon":"-48.4899367340666"
+   },
+   {
+      "name":"Biblioteca Avertano Rocha",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Distrito de Icoaraci",
+      "lat":"-1.29483403087902",
+      "lon":"-48.4880375587273"
+   },
+   {
+      "name":"Ba\u00eda do Sol",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.0649352324101",
+      "lon":"-48.3316397651362"
+   },
+   {
+      "name":"Para\u00edso",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.06715315581698",
+      "lon":"-48.3865799824653"
+   },
+   {
+      "name":"Marah\u00fa",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.07281421621997",
+      "lon":"-48.4008067209456"
+   },
+   {
+      "name":"Carananduba",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.09153385344069",
+      "lon":"-48.4109119618597"
+   },
+   {
+      "name":"S\u00e3o Francisco",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.10407313312464",
+      "lon":"-48.420950668304"
+   },
+   {
+      "name":"Arimramba",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.11502680811051",
+      "lon":"-48.4321101762788"
+   },
+   {
+      "name":"Murubira",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.12115585161581",
+      "lon":"-48.4436376085439"
+   },
+   {
+      "name":"Porto Arthur",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.12662656905559",
+      "lon":"-48.449465849619"
+   },
+   {
+      "name":"Chap\u00e9u Virado",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.13191892215526",
+      "lon":"-48.4569183928387"
+   },
+   {
+      "name":"Centro de Informa\u00e7\u00e3o Tur\u00edstica (CAT)",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.13189329052958",
+      "lon":"-48.4569306792871"
+   },
+   {
+      "name":"Farol",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.13288632598329",
+      "lon":"-48.4598383526692"
+   },
+   {
+      "name":"Terminal",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.1638546471313",
+      "lon":"-48.4730090598467"
+   },
+   {
+      "name":"Vila - Mercado Municipal de Mosqueiro, Tapiocaria e Igreja N. S. Do \u00d3",
+      "type":"Praia e Sol",
+      "bairro":null,
+      "distrito":"Ilha de Mosqueiro",
+      "lat":"-1.16509025489097",
+      "lon":"-48.4725334774367"
+   },
+   {
+      "name":"Pra\u00e7a do Rel\u00f3gio",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45400043205647",
+      "lon":"-48.5035925231139"
+   },
+   {
+      "name":"Pra\u00e7a Dom Pedro II",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45564742719665",
+      "lon":"-48.5027923474425"
+   },
+   {
+      "name":"Pra\u00e7a Felipe Patroni",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45607324818251",
+      "lon":"-48.5020577949174"
+   },
+   {
+      "name":"Pra\u00e7a frei Caetano Brand\u00e3o",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45534869331911",
+      "lon":"-48.5051404920956"
+   },
+   {
+      "name":"Largo do Carmo",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45808077126797",
+      "lon":"-48.5054453041778"
+   },
+   {
+      "name":"Pra\u00e7a Batista Campos",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46001593317127",
+      "lon":"-48.4898464939938"
+   },
+   {
+      "name":"Pra\u00e7a da Rep\u00fablica",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45195533743783",
+      "lon":"-48.4946915047587"
+   },
+   {
+      "name":"Pra\u00e7a Magalh\u00e3es",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.44466511431554",
+      "lon":"-48.4958733607955"
+   },
+   {
+      "name":"Pra\u00e7a da Bandeira",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45486834541282",
+      "lon":"-48.5002002038275"
+   },
+   {
+      "name":"Pra\u00e7a Brasil",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.43738700201638",
+      "lon":"-48.4867925801542"
+   },
+   {
+      "name":"Pra\u00e7a Rui Barata",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.47630190336542",
+      "lon":"-48.4755815243882"
+   },
+   {
+      "name":"Pra\u00e7a Pincesa Isabel",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.47576514542505",
+      "lon":"-48.4757425889047"
+   },
+   {
+      "name":"Conjunto Arquitet\u00f4nico de Nazar\u00e9",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.45262656643025",
+      "lon":"-48.4820799280405"
+   },
+   {
+      "name":"Pra\u00e7a do Arsenal",
+      "type":"Pra\u00e7as",
+      "bairro":null,
+      "distrito":null,
+      "lat":"-1.46279076323428",
+      "lon":"-48.5054234884322"
+   }
+]
