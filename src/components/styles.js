@@ -52,6 +52,29 @@ export const Line = styled.View`
     margin-vertical: 10px;
 `;
 
+export const EventsContainer1 = styled(InnerContainer)`
+    flex: 1;
+    max-height: 5%;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: ${secondary};
+`;
+
+export const EventsContainer2 = styled(InnerContainer)`
+    flex: 2;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: ${primary};
+`;
+
+export const EventsContainer3 = styled(InnerContainer)`
+    flex: 3;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: ${brand};
+`;
+
+
 /*====================== Text ======================*/
 export const PageTitle = styled.Text`
     font-size: 30px;
@@ -128,6 +151,12 @@ export const WelcomeImage = styled.Image`
     min-width: 100%;
 `;
 
+export const AtractImage = styled.Image`
+    width: 100%;
+    height: 250px;
+`;
+
+
 /*====================== TouchableOpacity ===========================*/
 
 export const RightIcon = styled.TouchableOpacity`
@@ -143,11 +172,29 @@ export const StyledButton = styled.TouchableOpacity`
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    margin-vertical 5px;
+    margin-vertical: 5px;
     height: 50px;
     ${(props) => props.google == true && `
     background-color: ${red};
     flex-direction: row;
     height: 60px;
     `}
+
+
+`;
+
+export const EventButton = styled.TouchableOpacity`
+    background-color: ${brand}; 
+    border-radius: 4px;
+    padding: 4%;
+    width: 48%;
+    align-self: flex-start;
+    text-align: center;
+    font-size: 16px;
+
+    
+
+    ${(props) => props.rightButton == true && `
+    background-color: ${red};
+`}
 `;
