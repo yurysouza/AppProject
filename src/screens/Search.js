@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FlatList, View, Text } from "react-native";
-import { Colors, Line, StyledContainer, StyledFormArea, StyledFormAreaSearch, StyledTextInput } from "../components/styles";
+import { Colors, Line, StyledContainer, StyledFormArea, StyledTextInput } from "../components/styles";
 import points from "../components/pontos.json";
 
 const {darkLight} = Colors

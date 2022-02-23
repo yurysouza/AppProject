@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040660382322",
+    "project_id": "mairiproject",
+    "storage_bucket": "mairiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040660382322:android:c4ab2a552a7cb09425b8eb",
+        "android_client_info": {
+          "package_name": "com.mairi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040660382322-dftaq3pa63gnlfc76vjb92lebojr3s2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-xJMcVS3-WJUNaqXM8yvb2Dg07NsY1UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040660382322-dftaq3pa63gnlfc76vjb92lebojr3s2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

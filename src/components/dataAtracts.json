@@ -1,44 +1,42 @@
 [
     {
-	"name":"Observarório Paraense",
-	"type":"type1",
-	"lot":"",
-	"lon":"",
+	"name":"Básilica de Nazaré",
+	"type":"Religioso",
 	"lat":"-1.45307438756738",
 	"lon":"-48.4937660763792",
 	"describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare congue risus, et egestas libero rutrum tempor. Vivamus sollicitudin dapibus maximus. Suspendisse arcu urna, porta at magna at, interdum faucibus felis. Mauris congue et lorem at fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo in velit dapibus sollicitudin id quis lectus. Nunc imperdiet, ipsum in euismod imperdiet, est arcu efficitur ex, a hendrerit ipsum libero non purus.",
-	"image":"https://pixabay.com/get/gdb008b12ef714028891e6394ec9fadfd45690cbc76c2d7beadbf4de440630b8f0c07592553668e12fb0c6975249b2cd7_1280.jpg"
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Bas%C3%ADlica_Santu%C3%A1rio_Nossa_Senhora_de_Nazar%C3%A9_-_Bel%C3%A9m-PA.jpg/1024px-Bas%C3%ADlica_Santu%C3%A1rio_Nossa_Senhora_de_Nazar%C3%A9_-_Bel%C3%A9m-PA.jpg"
     },
     {
-	"name":"Nome2",
-	"type":"type2",
+	"name":"Estação das Docas",
+	"type":"Lazer",
 	"lat":"-1.45496193703202",
 	"lon":"-48.5056680239536",
 	"describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare congue risus, et egestas libero rutrum tempor. Vivamus sollicitudin dapibus maximus. Suspendisse arcu urna, porta at magna at, interdum faucibus felis. Mauris congue et lorem at fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo in velit dapibus sollicitudin id quis lectus. Nunc imperdiet, ipsum in euismod imperdiet, est arcu efficitur ex, a hendrerit ipsum libero non purus.",
-	"image":"https://pixabay.com/get/g5fbf1fc37c9a8c969837a2205a202a445f33b86b0cbd1ee69344248e9fad1f8bd4499f2265d1be03bb3b5e609fba7889_1280.jpg"
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Brazil_Bel%C3%A9m_Las_Docas_02.jpg/300px-Brazil_Bel%C3%A9m_Las_Docas_02.jpg"
     },
     {
-	"name":"NOME3",
-	"type":"TYPE3",
+	"name":"Ver-o-Peso",
+	"type":"Patrimonial",
 	"lat":"-1.45557862249979",
 	"lon":"-48.5024166610322",
 	"describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare congue risus, et egestas libero rutrum tempor. Vivamus sollicitudin dapibus maximus. Suspendisse arcu urna, porta at magna at, interdum faucibus felis. Mauris congue et lorem at fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo in velit dapibus sollicitudin id quis lectus. Nunc imperdiet, ipsum in euismod imperdiet, est arcu efficitur ex, a hendrerit ipsum libero non purus.",
-	"image":"https://pixabay.com/get/g575f603a7cbd1f82dea082d90a9552acba2c75c94c36775f46d99d3aca9ed0982e3100a24344203c9f494b70073888df_1280.jpg"
+	"image":"https://upload.wikimedia.org/wikipedia/commons/4/47/Ver-oPeso-Belem.jpg"
     },
     {
-	"name":"NOME4",
-	"type":"TYPE4",
+	"name":"Mangal das Garças",
+	"type":"Ecologico",
 	"lat":"-1.45201348171321",
 	"lon":"-48.4908804144426",
 	"describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare congue risus, et egestas libero rutrum tempor. Vivamus sollicitudin dapibus maximus. Suspendisse arcu urna, porta at magna at, interdum faucibus felis. Mauris congue et lorem at fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo in velit dapibus sollicitudin id quis lectus. Nunc imperdiet, ipsum in euismod imperdiet, est arcu efficitur ex, a hendrerit ipsum libero non purus.",
-	"image":"https://pixabay.com/get/gcbc5ea0b7d7a82c0e50c85d900bee550d986560d4b706affda95e88022811ab50eea3d834b1398b0f5f5128f8772e12e_1280.jpg"
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Mangal_das_Gar%C3%A7as_DSC_8656_%289514030210%29.jpg/1024px-Mangal_das_Gar%C3%A7as_DSC_8656_%289514030210%29.jpg"
     },
     {
-	"name":"NOME5",
-	"type":"TYPE5",
+	"name":"Teatro da Paz",
+	"type":"Cultural",
 	"lat":"-1.38099263604324",
 	"lon":"-48.4442088888295",
 	"describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare congue risus, et egestas libero rutrum tempor. Vivamus sollicitudin dapibus maximus. Suspendisse arcu urna, porta at magna at, interdum faucibus felis. Mauris congue et lorem at fringilla. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a justo in velit dapibus sollicitudin id quis lectus. Nunc imperdiet, ipsum in euismod imperdiet, est arcu efficitur ex, a hendrerit ipsum libero non purus.",
-	"image":"https://pixabay.com/get/g1113ffe6aefe7c8392fef82ddfa2c2c77a01c03899a17c2a6277b4cf31a8efd501149608c0b4d31d239154d633386d74_1280.jpg"
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Belem-TeatroPaz1.jpg/1024px-Belem-TeatroPaz1.jpg"
     }
 ]

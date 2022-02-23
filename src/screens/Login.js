@@ -1,6 +1,6 @@
 import React from "react";
 import Icon from "react-native-vector-icons/Entypo";
-import { GoogleSignin } from "@react-native-google-signin/google-signin";
+import { GoogleSignin, statusCodes} from "@react-native-google-signin/google-signin";
 import FontAwesome from "react-native-vector-icons/FontAwesome";
 import { Formik } from "formik";
 import {Colors,
@@ -92,13 +92,22 @@ const MyTextInput = ({label, icon, ...props}) => {
 
 const signIn = async () => {
     try {
-      await GoogleSignin.hasPlayServices({ showPlayServicesUpdateDialog: true });
+      await GoogleSignin.hasPlayServices();
       const userInfo = await GoogleSignin.signIn();
-      this.setState({ userInfo });
-      console.log(userInfo);
+      console.log(userInfo)
+      setUser(userInfo)
     } catch (error) {
-        console.log('play services are not available');
+      console.log('Message', error.message);
+      if (error.code === statusCodes.SIGN_IN_CANCELLED) {
+        console.log('User Cancelled the Login Flow');
+      } else if (error.code === statusCodes.IN_PROGRESS) {
+        console.log('Signing In');
+      } else if (error.code === statusCodes.PLAY_SERVICES_NOT_AVAILABLE) {
+        console.log('Play Services Not Available or Outdated');
+      } else {
+        console.log('Some Other Error Happened');
+      }
     }
-};
+  };
 
 export default Login;

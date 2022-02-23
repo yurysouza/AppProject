@@ -5,15 +5,16 @@ import points from "../components/dataAtracts.json"
 
 
 
-const Events = ({navigation}) => {
+
+const Attracts = ({navigation}) => {
     return (
         <StyledContainer>
         <PageTitle>Destinos Turísticos</PageTitle>
             <EventsContainer1>
-                <EventButton onPress={() => navigation.navigate("Attracts")}>
+                <EventButton onPress={() =>  {}}>
                     <ButtonText>Atrações</ButtonText>
                 </EventButton>
-                <EventButton onPress={() =>  {}}
+                <EventButton onPress={() => navigation.navigate("Events")}
                 rightButton = {true}>
                     <ButtonText>Eventos</ButtonText>
                 </EventButton>
@@ -24,12 +25,7 @@ const Events = ({navigation}) => {
                     renderItem = {({item}) => <ListItem data={item}/>}
                     ItemSeparatorComponent = {Line}/>
             </EventsContainer2>
-        </StyledContainer>
-        /*adding fontsize and tittle, also a flatlist to join with the other methods*/
-        /*do another .js for calling each other with differents renders*/
-        /*between the imagens do another separtor lines for guidance */
-        /*this section need to be implemetaded with navigator to work as well */     
-
+        </StyledContainer> 
     )
 };
 
@@ -43,5 +39,4 @@ const ListItem = ({data}) => {
         </TouchableOpacity>        
     )
 }
-
-export default Events;
+export default Attracts;

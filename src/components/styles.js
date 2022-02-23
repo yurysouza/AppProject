@@ -54,7 +54,7 @@ export const Line = styled.View`
 
 export const EventsContainer1 = styled(InnerContainer)`
     flex: 1;
-    max-height: 5%;
+    max-height: 7%;
     flex-direction: row;
     justify-content: space-between;
     background-color: ${secondary};
