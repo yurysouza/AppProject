@@ -17,12 +17,12 @@ import {Colors,
     Line,
     LeftIcon
  } from "../components/styles";
- import { View } from "react-native";
+import { View } from "react-native";
 
 
 
 GoogleSignin.configure({
-    webClientId: '1040660382322oi4dlvqfv26sfndgm856g7lh45jq2t5h.apps.googleusercontent.com', 
+    webClientId: '1040660382322-dftaq3pa63gnlfc76vjb92lebojr3s2f.apps.googleusercontent.com', 
     accountName: '',
     profileImageSize: 120
 });
@@ -68,7 +68,7 @@ const Login = () => {
                             <ButtonText>Login</ButtonText>
                         </StyledButton>
                         <Line />
-                        <StyledButton google = {true} onPress = {signIn}>
+                        <StyledButton google = {true} onPress={signIn}>
                             <FontAwesome name= "google" size = {25} color ={primary}/>
                             <ButtonText google = {true}> Continue com Google </ButtonText>
                         </StyledButton>
@@ -94,20 +94,14 @@ const signIn = async () => {
     try {
       await GoogleSignin.hasPlayServices();
       const userInfo = await GoogleSignin.signIn();
-      console.log(userInfo)
-      setUser(userInfo)
+      const {name, photo} = userInfo;
     } catch (error) {
       console.log('Message', error.message);
-      if (error.code === statusCodes.SIGN_IN_CANCELLED) {
-        console.log('User Cancelled the Login Flow');
-      } else if (error.code === statusCodes.IN_PROGRESS) {
-        console.log('Signing In');
-      } else if (error.code === statusCodes.PLAY_SERVICES_NOT_AVAILABLE) {
-        console.log('Play Services Not Available or Outdated');
-      } else {
-        console.log('Some Other Error Happened');
-      }
     }
   };
 
+
+const TestIt = () =>{
+    setTimeout( ({navigation}) => navigation.navigate("Welcome"))
+}
 export default Login;

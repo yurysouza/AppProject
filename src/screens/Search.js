@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { FlatList, View, Text } from "react-native";
-import { Colors, Line, StyledContainer, StyledFormArea, StyledTextInput } from "../components/styles";
+import { FlatList, View} from "react-native";
+import { Colors, Line, StyledContainer, StyledFormArea, StyledSearchTextInput, Text1, Text2} from "../components/styles";
 import points from "../components/pontos.json";
 
 const {darkLight} = Colors
@@ -25,7 +25,7 @@ const Search = () => {
     return (
         <StyledContainer>
             <StyledFormArea>
-                <StyledTextInput
+                <StyledSearchTextInput
                 placeholder = "Digite aqui"                    
                 placeholderTextColor = {darkLight}
                 value = {searchText}
@@ -45,8 +45,8 @@ const Search = () => {
 const ListItem = ({data}) => {
     return (
         <View>
-            <Text>{data.name}</Text>
-            <Text>{data.type}</Text>
+            <Text1>{data.name}</Text1>
+            <Text2>{data.type}</Text2>
         </View>
         
     )

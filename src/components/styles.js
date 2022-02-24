@@ -23,7 +23,7 @@ export const StyledContainer = styled.View`
 `;
 
 export const StyledFormArea = styled.View`
-    width: 100%;    
+    width: 100%;  
 `;
 
 export const InnerContainer = styled.View`
@@ -68,10 +68,10 @@ export const EventsContainer2 = styled(InnerContainer)`
 `;
 
 export const EventsContainer3 = styled(InnerContainer)`
-    flex: 3;
+    flex: 1;
     flex-direction: row;
-    justify-content: space-between;
-    background-color: ${brand};
+    justify-content: space-evenly;
+    background-color: ${primary};
 `;
 
 
@@ -114,18 +114,31 @@ export const MsgBox = styled.Text`
     font-size: 13px;
 `;
 
+export const Text1 = styled.Text`
+    font-size: 16px;
+`;
+
+export const Text2 = styled.Text`
+    font-size: 14px;
+`;
+
 /*====================== TextInput ======================*/
 export const StyledTextInput = styled.TextInput`
     background-color: ${secondary};
     padding: 15px;
     padding-left: 55px;
     padding-right: 55px;
-    border-radius: 5px;
+    border-style: solid;
     font-size: 16px;
     height: 60px;
     margin-vertical: 3px;
     margin-bottom: 10px;
     color: ${tertiary};
+`;
+
+export const StyledSearchTextInput = styled(StyledTextInput)`
+    border-radius: 5px;
+    border-width: 1px;
 `;
 
 /*====================== Image ===========================*/
@@ -154,6 +167,11 @@ export const WelcomeImage = styled.Image`
 export const AtractImage = styled.Image`
     width: 100%;
     height: 250px;
+`;
+
+export const EventsImage = styled.Image`
+    width: 70px;
+    height: 70px;
 `;
 
 

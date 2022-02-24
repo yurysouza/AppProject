@@ -24,8 +24,8 @@ function MyStack() {
         headerBackVisible: false
     }}
       >
-        <Tab.Screen name= "Events"component={Events}/>
         <Tab.Screen name= "Attracts"component={Attracts}/>        
+        <Tab.Screen name= "Events"component={Events}/>
       </Stack.Navigator>
     );
   }
